@@ -1,4 +1,3 @@
-# Sales-Analysis
 <div align="center">
   <img src="assets/logo.jpeg" alt="Grand & Toy Logo" width="120" />
   <h1>Sales Analysis – Azure Data Factory & Power BI</h1>
