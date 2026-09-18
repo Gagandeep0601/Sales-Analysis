@@ -201,7 +201,6 @@ The dashboard includes analysis such as:
 - Sales trends
 - Sales standardized in USD
 
-![Power BI Dashboard](assets/powerbi_dashboard.png)
 
 ---
 
